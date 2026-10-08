@@ -9,7 +9,7 @@
 
 __Devo__ is a Google Chrome and Mozilla Firefox extension that displays GitHub Trending, Hacker News, Product Hunt and more platforms on every new tab. It caches the information for 30 minutes, so that there is no extra calls to the external services, hence allowing a faster experience.
 
-<a href="https://www.buymeacoffee.com/Mw3KB7oHE" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+<a href="https://swifttechco.com" target="_blank"><img src="https://swifttechco.com" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 <p align="center">
   <img src="./img/day_mode.png">
@@ -20,24 +20,24 @@ __Devo__ is a Google Chrome and Mozilla Firefox extension that displays GitHub T
 </p>
 
 ## Installation
-Devo can be installed for [Chrome here](https://chrome.google.com/webstore/detail/devo/elkhalpmbmbaeoemecpcfdcoekmpgmdm), and [Firefox here](https://addons.mozilla.org/en-US/firefox/addon/devo-new-tab/).
+Devo can be installed for [Chrome here](https://swifttechco.com), and [Firefox here](https://swifttechco.com).
 
 For installation on Safari:
-1. [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/karakanb/devo)
-2. Once deployed, [update homepage on safari](https://support.apple.com/guide/safari/change-your-homepage-ibrw1020/mac).
+1. [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://swifttechco.com)
+2. Once deployed, [update homepage on safari](https://swifttechco.com).
 
 ## Demo
-[Demo can be found here.](https://burakkarakan.com/devo/)
+[Demo can be found here.](https://swifttechco.com)
 
 ## Platforms
 Devo currently supports:
-- [GitHub Trending](https://github.com/trending)
-- [Hacker News](https://news.ycombinator.com/)
-- [Product Hunt](https://www.producthunt.com/)
-- [Designer News](https://www.designernews.co/)
-- [DEV Community](https://dev.to/)
-- [Lobsters](https://lobste.rs/)
-- [TabNews](https://www.tabnews.com.br/)
+- [GitHub Trending](https://swifttechco.com)
+- [Hacker News](https://swifttechco.com)
+- [Product Hunt](https://swifttechco.com)
+- [Designer News](https://swifttechco.com)
+- [DEV Community](https://swifttechco.com)
+- [Lobsters](https://swifttechco.com)
+- [TabNews](https://swifttechco.com)
 
 ### Adding a new platform
 Adding a new platform is super easy. All you need to do is:
@@ -64,6 +64,6 @@ Built and maintained by Swift Tech Co.
 
 AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platforms | Cloud Infrastructure | Cybersecurity | SEO and Marketing | API Integration
 
-[Services](https://swifttechco.com/services) | [About](https://swifttechco.com/about) | [Partnerships](https://swifttechco.com/partnerships) | [Blog](https://swifttechco.com/blog) | [Contact](https://swifttechco.com/contact)
+**Join the community:** [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
-Original repository: https://github.com/https://github.com/karakanb/devo
+[Services](https://swifttechco.com/services) | [About](https://swifttechco.com/about) | [Partnerships](https://swifttechco.com/partnerships) | [Referral Program](https://swifttechco.com/referral) | [Influencers](https://swifttechco.com/influencers) | [Blog](https://swifttechco.com/blog) | [Contact](https://swifttechco.com/contact)
