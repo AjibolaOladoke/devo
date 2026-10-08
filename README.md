@@ -1,7 +1,7 @@
 
 ## Images
 
-[![devo](https://opengraph.githubassets.com/1/https://github.com/karakanb/devo)](https://www.swifttechco.com)
+[![devo](https://opengraph.githubassets.com/1/karakanb/devo)](https://www.swifttechco.com)
 
 <p align="center">
   <img width="250" src="./img/logo.png">
