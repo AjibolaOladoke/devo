@@ -1,47 +1,32 @@
+# devo
+
+## What This Is
+
+We keep a working index for product and engineering, and devo is the entry that collects our notes, examples and fixes. It reflects how Swift Tech Co. actually uses this in builds and client work.
 
 ## Images
 
-[![devo](https://opengraph.githubassets.com/1/karakanb/devo)](https://www.swifttechco.com)
-
-<p align="center">
-  <img width="250" src="./img/logo.png">
-</p>
-<p align="center">
-  GitHub Trending, Hacker News and Product Hunt, on every new tab!
-</p>
-
----
-
-__Devo__ is a Google Chrome and Mozilla Firefox extension that displays GitHub Trending, Hacker News, Product Hunt and more platforms on every new tab. It caches the information for 30 minutes, so that there is no extra calls to the external services, hence allowing a faster experience.
-
-
-<p align="center">
-  <img src="./img/day_mode.png">
-</p>
-
-<p align="center">
-  <img src="./img/night_mode.png">
-</p>
+[![devo](images/preview.png)](https://github.com/Swift-Tech-Co)
 
 ## Installation
-Devo can be installed for [Chrome here](https://swifttechco.com), and [Firefox here](https://swifttechco.com).
+Devo can be installed for Chrome here, and Firefox here.
 
 For installation on Safari:
 1. [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://swifttechco.com)
-2. Once deployed, [update homepage on safari](https://swifttechco.com).
+2. Once deployed, update homepage on safari.
 
 ## Demo
-[Demo can be found here.](https://swifttechco.com)
+Demo can be found here.
 
 ## Platforms
 Devo currently supports:
-- [GitHub Trending](https://swifttechco.com)
-- [Hacker News](https://swifttechco.com)
-- [Product Hunt](https://swifttechco.com)
-- [Designer News](https://swifttechco.com)
-- [DEV Community](https://swifttechco.com)
-- [Lobsters](https://swifttechco.com)
-- [TabNews](https://swifttechco.com)
+- GitHub Trending
+- Hacker News
+- Product Hunt
+- Designer News
+- DEV Community
+- Lobsters
+- TabNews
 
 ### Adding a new platform
 Adding a new platform is super easy. All you need to do is:
@@ -70,14 +55,22 @@ AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platf
 
 **Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: [swifttechco.com](https://www.swifttechco.com)
+- Website: swifttechco.com
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
